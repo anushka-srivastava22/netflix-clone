@@ -14,6 +14,11 @@ This project is a Netflix clone that replicates the popular streaming platform's
 - **Movie/TV Show Database:** Integration with MongoDB to store and retrieve movie and TV show information.
 - **State Management:** Utilizes Redux for efficient state management in the client-side application.
 
+## Snapshot
+
+![1](https://github.com/anushka-srivastava22/ToDo-App/assets/67271376/452c6145-fea0-4531-9225-43f30ee70548)
+![2](https://github.com/anushka-srivastava22/ToDo-App/assets/67271376/ba79cd33-8c1b-4450-bc14-9f71fa2cbd8d)
+
 ## Tech Stack
 
 - **Frontend:**
